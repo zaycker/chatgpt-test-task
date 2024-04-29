@@ -1,0 +1,18 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 100%;
+  padding-bottom: 10px;
+}
+
+.messagesContainer {
+  padding: 0 20px;
+  max-width: 720px;
+}
+
+.inputContainer {
+  position: sticky;
+  bottom: 10px;
+}
